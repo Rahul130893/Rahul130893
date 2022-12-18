@@ -52,14 +52,18 @@
 ### :fire: My Stats :
 
 
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahul130893&show_icons=true&locale=en&layout=compact" alt="rahul130893" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahul130893&show_icons=true&locale=en&layout=compact&theme=dark&background=000000" alt="rahul130893" /></p>
 
 
 
 
-  <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=rahul130893&show_icons=true&locale=en" alt="rahul130893" /></p>
+  <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=rahul130893&show_icons=true&locale=en&theme=dark&background=000000" alt="rahul130893" /></p>
 
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul130893&" alt="rahul130893" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul130893&theme=dark&background=000000" alt="rahul130893" /></p>
+
+
+
+

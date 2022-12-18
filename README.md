@@ -57,7 +57,7 @@
 
 
 
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahul130893&show_icons=true&locale=en" alt="rahul130893" /></p>
+  <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=rahul130893&show_icons=true&locale=en" alt="rahul130893" /></p>
 
 
 

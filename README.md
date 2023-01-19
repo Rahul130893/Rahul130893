@@ -1,7 +1,9 @@
 
 
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRamRT1hebfboKsKZOTmGAef_oEsWg4Wcj6ww&usqp=CAU" height="300" width="1000" >
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 
 <h1 align="center">Hi 👋, I'm Rahul</h1>

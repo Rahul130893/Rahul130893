@@ -26,7 +26,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@rahulrdx1308](https://medium.com/@rahulrdx1308)
 
-- 💬 Ask me about **React, MongoDB, Node.js, Html, Css and Express.js**
+- 💬 Ask me about **React, Redux, MongoDB, Node.js, Express.js Html, Css and JavaScript **
 
 - 📫 How to reach me **rahulrdx1308@gmail.com**
 
